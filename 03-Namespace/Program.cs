@@ -3,18 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using School;
 
-namespace _01_CSharpTutorial
+namespace _03_Namespace
 {
     internal class Program
     {
-        private int Id {  get; set; }
         static void Main(string[] args)
         {
-            
-            string message = "Hola mundo";
-            Console.WriteLine(message);
-            Console.ReadLine();
+            Student std = new Student();
+            Course cs = new Course();
         }
     }
 }
