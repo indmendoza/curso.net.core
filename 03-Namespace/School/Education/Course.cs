@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace School.Education
 {
-    class Student {
-    }
+   
     class Course
     {
     }

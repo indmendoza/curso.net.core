@@ -11,8 +11,11 @@ namespace _03_Namespace
     {
         static void Main(string[] args)
         {
-            Student std = new Student();
-            Course cs = new Course();
+            School.Student std = new School.Student();
+            School.Course cs = new School.Course();
+
+            School.Education.Student student1 = new School.Education.Student();
+            School.Education.Course course1 = new School.Education.Course();
         }
     }
 }
