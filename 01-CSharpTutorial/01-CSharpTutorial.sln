@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-TipoDatos", "..\06-TipoD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Numeros", "..\07-Numeros\07-Numeros.csproj", "{202BF827-9CFD-4139-B92D-6BE3C2F3AA19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Cadenas", "..\08-Cadenas\08-Cadenas.csproj", "{C9379BCE-8D25-442A-9BDC-0B00B5F5A265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{202BF827-9CFD-4139-B92D-6BE3C2F3AA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{202BF827-9CFD-4139-B92D-6BE3C2F3AA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{202BF827-9CFD-4139-B92D-6BE3C2F3AA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9379BCE-8D25-442A-9BDC-0B00B5F5A265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9379BCE-8D25-442A-9BDC-0B00B5F5A265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9379BCE-8D25-442A-9BDC-0B00B5F5A265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9379BCE-8D25-442A-9BDC-0B00B5F5A265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
