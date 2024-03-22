@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Enumeracion", "..\11-Enu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12- StringBuilder", "..\12- StringBuilder\12- StringBuilder.csproj", "{F55BAD47-8D42-4766-A56E-195A9B8904D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Anonimo", "..\13-Anonimo\13-Anonimo.csproj", "{B9135464-D8A7-4836-8503-8205C1D02C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F55BAD47-8D42-4766-A56E-195A9B8904D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F55BAD47-8D42-4766-A56E-195A9B8904D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F55BAD47-8D42-4766-A56E-195A9B8904D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9135464-D8A7-4836-8503-8205C1D02C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9135464-D8A7-4836-8503-8205C1D02C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9135464-D8A7-4836-8503-8205C1D02C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9135464-D8A7-4836-8503-8205C1D02C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
