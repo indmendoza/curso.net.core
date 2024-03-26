@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12- StringBuilder", "..\12-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Anonimo", "..\13-Anonimo\13-Anonimo.csproj", "{B9135464-D8A7-4836-8503-8205C1D02C54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Dinamicos", "..\14-Dinamicos\14-Dinamicos.csproj", "{C715EB80-6208-4525-9422-F2A3E15A1D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B9135464-D8A7-4836-8503-8205C1D02C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9135464-D8A7-4836-8503-8205C1D02C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9135464-D8A7-4836-8503-8205C1D02C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C715EB80-6208-4525-9422-F2A3E15A1D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C715EB80-6208-4525-9422-F2A3E15A1D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C715EB80-6208-4525-9422-F2A3E15A1D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C715EB80-6208-4525-9422-F2A3E15A1D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
