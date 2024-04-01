@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27683F79-BDB0-4AF7-95DA-8CB799E294E8}</ProjectGuid>
+    <ProjectGuid>{C4BA100F-1824-4406-9193-DE87BE743AF6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_15_Null</RootNamespace>
-    <AssemblyName>15-Null</AssemblyName>
+    <RootNamespace>_16_ValueTypesAndReferenceType</RootNamespace>
+    <AssemblyName>16-ValueTypesAndReferenceType</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Estudiante.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
