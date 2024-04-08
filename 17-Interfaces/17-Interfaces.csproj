@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="File.cs" />
     <Compile Include="DBContext.cs" />
+    <Compile Include="FileInfo.cs" />
+    <Compile Include="FileInfo2.cs" />
+    <Compile Include="FileInfo3.cs" />
+    <Compile Include="IBinaryFile.cs" />
+    <Compile Include="IFile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
