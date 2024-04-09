@@ -65,7 +65,70 @@ namespace _18_Operandos
             Console.WriteLine(!true);
             Console.WriteLine(!bvar);
             Console.WriteLine(!(5 >3));
-        
+
+            //Operacion Logica AND
+            bool resultado2; 
+            resultado2 = OperandorTrue() && OperandorTrue();
+            if(resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorTrue() && OperandorFalse();
+            if(resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorFalse() && OperandorTrue();
+            if(resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorFalse() && OperandorFalse();
+            if(resultado2)
+                Console.WriteLine(resultado2);
+
+            //Operacion Logica OR
+             resultado2 = false;
+            resultado2 = OperandorTrue() || OperandorTrue();
+            if (resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorTrue() || OperandorFalse();
+            if (resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorFalse() || OperandorTrue();
+            if (resultado2)
+                Console.WriteLine(resultado2);
+
+            resultado2 = OperandorFalse() || OperandorFalse();
+            if (resultado2)
+                Console.WriteLine(resultado2);
+
+            List<string> list = new List<string>();
+            list.Any(cadena => cadena.Length >= 0);
+
+            List<int> ListInt = new List<int>();
+            ListInt.Any(entero => entero == 0);
+
+            List<Estudiante> listEstudiante = new List<Estudiante>();
+            listEstudiante.Any(estudiante => estudiante.Nombre == "JUAN");
+
+
+            int a1 = 5 + 3 * 3;
+            float b1 = (5 + 3) * 3 / 2;
+            int c1 = (3*3) * 3 / 2;
+            int d1 = (3 * 3) * (3 * 3 + 5);
+
+        }
+
+        private static bool OperandorTrue(){ 
+        return true;
+        }
+
+        private static bool OperandorFalse() {
+            return false;
+        }
+
+        internal class Estudiante { 
+            public string Nombre { get; set; }
         }
     }
 }
