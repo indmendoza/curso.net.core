@@ -7,7 +7,7 @@
     <ProjectGuid>{48F7E27C-7899-478B-8777-C19C5D0BC2CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_21_InicializacionObjetos</RootNamespace>
-    <AssemblyName>_21_InicializacionObjetos</AssemblyName>
+    <AssemblyName>21-InicializacionObjetos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
