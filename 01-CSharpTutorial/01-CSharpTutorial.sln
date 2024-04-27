@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-InicializacionObjetos", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-CovarianzaContravarianza", "..\22-CovarianzaContravarianza\22-CovarianzaContravarianza.csproj", "{16C64438-1E25-4D8F-9224-3F34BC0E4BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-ExtensionesMetodos1", "..\23-ExtensionesMetodos1\23-ExtensionesMetodos1.csproj", "{6772B3EB-CBCB-4F55-8EF7-198C3AA56810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{16C64438-1E25-4D8F-9224-3F34BC0E4BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C64438-1E25-4D8F-9224-3F34BC0E4BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C64438-1E25-4D8F-9224-3F34BC0E4BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6772B3EB-CBCB-4F55-8EF7-198C3AA56810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6772B3EB-CBCB-4F55-8EF7-198C3AA56810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6772B3EB-CBCB-4F55-8EF7-198C3AA56810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6772B3EB-CBCB-4F55-8EF7-198C3AA56810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
